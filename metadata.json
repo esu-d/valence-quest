@@ -1,0 +1,6 @@
+{
+  "name": "價數鍊金師：元素王國",
+  "description": "結合元素卡牌收集、電荷平衡合成與回合制魔王戰鬥的國中理化離子價數冒險遊戲。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
